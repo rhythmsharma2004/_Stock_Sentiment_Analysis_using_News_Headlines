@@ -106,7 +106,7 @@ pip install pandas scikit-learn
 2. Place `Data.csv` in the project directory
 3. Open and run the notebook:
    ```bash
-   jupyter notebook "_Stock_Sentiment_Analysis_using_News_Headlines.ipynb"
+   jupyter notebook "Stock_Sentiment_Analysis_using_News_Headlines.ipynb"
    ```
 
 ---
